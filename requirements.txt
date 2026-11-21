@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scikit-learn
+jupyter
+ipykernel
+tqdm
+kaggle
